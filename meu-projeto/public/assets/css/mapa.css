@@ -1,0 +1,20 @@
+.cabecalho-rota {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.cabecalho-rota h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.fundo-botao{
+    background-color: white;
+    width: 50px;
+    height: 45px;
+    margin-top: 3%;
+    margin-left: 3%;
+    border-radius: 30%;
+    align-items: center;
+}
